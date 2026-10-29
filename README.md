@@ -168,6 +168,7 @@ I approach engineering by breaking complex problems into measurable requirements
 |:--|:--|
 | **Automated Mirnov Coil Winder — General Fusion Collaboration** | Mechatronics · Electromechanical Design · Precision Motion · Manufacturing Automation |
 | [**Smart Digital Photo Album & Weather Display**](https://github.com/HasanFairuz/smart-digital-photo-album) | ESP32-S3 · Arduino C++ · ST7789 TFT · Wi-Fi · LittleFS · CAD · 3D Printing |
+| **Joystick-Controlled Mechanical Claw Arm** | Robotics · Joystick Control · Electromechanical Systems · Manipulator Control |
 | **Integrated Robot Arm — CAD Reconstruction, Gripper & Digital Shadow** | Robotics · CAD · Mechanical Design · System Integration |
 | **Autonomous Maze-Solving Robot** | Robotics · Autonomous Navigation · Algorithms · Sensor Integration |
 | **Autonomous Sumo Robot** | Robotics · Motor Control · Sensors · Autonomous Behaviour |
