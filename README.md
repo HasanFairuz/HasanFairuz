@@ -162,12 +162,12 @@ I approach engineering by breaking complex problems into measurable requirements
 
 ## 🚀 Selected Engineering Projects
 
-*The projects below are candidates for GitHub documentation. Dedicated repositories and technical details will be linked as materials are reviewed and prepared for publication.*
+*Selected engineering projects spanning mechatronics, embedded systems, robotics, automation, and software development. Additional repositories and technical documentation will be published as materials are prepared.*
 
 | Project | Engineering areas |
 |:--|:--|
 | **Automated Mirnov Coil Winder — General Fusion Collaboration** | Mechatronics · Electromechanical Design · Precision Motion · Manufacturing Automation |
-| **Mini Photo Album / Smart Display** | ESP32 · Embedded C/C++ · TFT Displays · Connectivity · User Interfaces |
+| **[Smart Digital Photo Album & Weather Display](https://github.com/HasanFairuz/smart-digital-photo-album)** | ESP32-S3 · Arduino C++ · ST7789 TFT · Wi-Fi · LittleFS · CAD · 3D Printing |
 | **Engineering Portfolio Website & Project Explorer** | Google Apps Script · Google Sheets · Workflow Automation · Web Integration |
 | **Integrated Robot Arm — CAD Reconstruction, Gripper & Digital Shadow** | Robotics · CAD · Mechanical Design · System Integration |
 | **Autonomous Maze-Solving Robot** | Robotics · Sensor Integration · Autonomous Navigation |
@@ -176,7 +176,7 @@ I approach engineering by breaking complex problems into measurable requirements
 | **Control Systems & Simulation Studies** | MATLAB · Dynamic Systems · Controller Design · Frequency Response |
 | **Engineering Workflow Automation** | VBA · Spreadsheets · Validation · Data Management |
 
-For additional projects, background, and visual demonstrations, visit my **[engineering portfolio](https://icarus909.com)**.
+For additional projects, background, and visual demonstrations, visit my **[engineering portfolio](https://hasanfairuz.com)**.
 
 ---
 
