@@ -162,21 +162,22 @@ I approach engineering by breaking complex problems into measurable requirements
 
 ## 🚀 Selected Engineering Projects
 
-*Selected engineering projects spanning mechatronics, embedded systems, robotics, automation, and software development. Additional repositories and technical documentation will be published as materials are prepared.*
+*Selected engineering projects spanning mechatronics, embedded systems, robotics, automation, digital electronics, and software development. Additional repositories and technical documentation will be published as projects are prepared.*
 
-| Project | Engineering areas |
+| **Project** | **Engineering areas** |
 |:--|:--|
 | **Automated Mirnov Coil Winder — General Fusion Collaboration** | Mechatronics · Electromechanical Design · Precision Motion · Manufacturing Automation |
-| **[Smart Digital Photo Album & Weather Display](https://github.com/HasanFairuz/smart-digital-photo-album)** | ESP32-S3 · Arduino C++ · ST7789 TFT · Wi-Fi · LittleFS · CAD · 3D Printing |
-| **Engineering Portfolio Website & Project Explorer** | Google Apps Script · Google Sheets · Workflow Automation · Web Integration |
+| [**Smart Digital Photo Album & Weather Display**](https://github.com/HasanFairuz/smart-digital-photo-album) | ESP32-S3 · Arduino C++ · ST7789 TFT · Wi-Fi · LittleFS · CAD · 3D Printing |
 | **Integrated Robot Arm — CAD Reconstruction, Gripper & Digital Shadow** | Robotics · CAD · Mechanical Design · System Integration |
-| **Autonomous Maze-Solving Robot** | Robotics · Sensor Integration · Autonomous Navigation |
-| **FPGA Vending Machine** | VHDL · Digital Logic · FPGA |
-| **Student Admission Database System** | C++ · Data Structures · Linked Lists |
-| **Control Systems & Simulation Studies** | MATLAB · Dynamic Systems · Controller Design · Frequency Response |
-| **Engineering Workflow Automation** | VBA · Spreadsheets · Validation · Data Management |
+| **Autonomous Maze-Solving Robot** | Robotics · Autonomous Navigation · Algorithms · Sensor Integration |
+| **Autonomous Sumo Robot** | Robotics · Motor Control · Sensors · Autonomous Behaviour |
+| **Autonomous Line Follower Robot** | Robotics · Sensor Feedback · Motion Control · Path Tracking |
+| **FPGA Vending Machine** | VHDL · Digital Logic · Finite-State Machines · FPGA |
+| **Student Admission Database System** | C++ · Object-Oriented Programming · Data Structures |
+| **iCarus Ultrasonic Radar** | Arduino · Ultrasonic Sensing · Servo Control · TFT Visualization |
+| **Soil Moisture Monitoring System** | ESP8266 · Capacitive Sensing · Sensor Calibration · OLED Display |
 
-For additional projects, background, and visual demonstrations, visit my **[engineering portfolio](https://hasanfairuz.com)**.
+For additional projects, background, and visual demonstrations, visit my [**engineering portfolio**](https://hasanfairuz.com/).
 
 ---
 
